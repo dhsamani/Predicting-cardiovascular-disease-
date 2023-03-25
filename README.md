@@ -1,4 +1,4 @@
-# Predicting-cardiovascular-disease-
+# Predicting cardiovascular disease with Logistic Regression and Random-Forest machine learning methods
 
 Cardiovascular disease (CVD) is a group of conditions that affect the heart and blood vessels. It includes a range of disorders such as coronary artery disease, heart failure, heart valve disease, arrhythmias, and peripheral artery disease. CVD is a leading cause of death worldwide, accounting for approximately 31% of all deaths. Risk factors for CVD include high blood pressure, high cholesterol, smoking, diabetes, obesity, physical inactivity, and family history. Symptoms of CVD vary depending on the type of condition but may include chest pain, shortness of breath, fatigue, dizziness, and irregular heartbeat. Prevention and management of CVD involve lifestyle changes, medication, and sometimes surgery.
 
